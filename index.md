@@ -15,12 +15,13 @@ hero:
       text: English
       link: /en-US/index
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
 
+---
+<div align="center">
+  <font size="7">选择语言以开始</font>
+</div>
+
+<br>
+<div align="center">
+  <font size="7">Choose language to start</font>
+</div>

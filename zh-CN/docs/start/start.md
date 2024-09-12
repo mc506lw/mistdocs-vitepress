@@ -5,7 +5,7 @@ title: 开始
 # 开始
 岚·域服务器是一个由玩家社区支持的良心商业服务器。
 
-[关于良心的特别说明](./goodxin)
+[关于良心的特别说明](/zh-CN/docs/other/goodxin.html)
 
 服主为mc506lw，由Mist团队开发。
 
@@ -33,7 +33,10 @@ title: 开始
 
 服务器推荐使用正版：
 
-- **请牢记！**: `mc.mistmc.top`
+- **请牢记！**
+```
+mc.mistmc.top
+```
 
 ### 正版认证
 

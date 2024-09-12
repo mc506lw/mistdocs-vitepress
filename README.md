@@ -12,4 +12,4 @@ npm install
 npm run docs:dev
 ```
 
-构建完成后，访问 http://localhost:5173 即可看到效果。
+构建完成后，访问 对应链接 即可看到效果。

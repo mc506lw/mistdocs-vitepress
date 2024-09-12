@@ -10,7 +10,7 @@
 CoreProtect是一款强大的数据记录与反破坏工具。当您因未及时圈定领地而遭遇其他玩家的无意或恶意破坏时，您可以向管理员申请恢复受损区域的数据。
 
 ### CoreProtect使用指南
-详细了解如何利用CoreProtect保护您的资产，请参阅：[CoreProtect使用指南](./guide/function/coi)
+详细了解如何利用CoreProtect保护您的资产，请参阅：[CoreProtect使用指南]
 
 ### 领地圈定提醒
 **如果忘记圈地导致物品丢失：**
