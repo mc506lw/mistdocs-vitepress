@@ -201,7 +201,7 @@ export default defineConfig({
                   ]
                 },
                 {
-                  text: 'SlimeFun Tutorials',
+                  text: 'SlimeFun',
                   collapsed: true,
                   items: [
                     { text: 'Part 1', link: '/en-US/docs/guide/slimefun/1' },
