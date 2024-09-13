@@ -4,7 +4,7 @@
 > 
 > ——Han Feizi
 
-To maintain the harmony and order of the Lan·Domain Minecraft Server, the following game rules are hereby established. Please read them carefully and follow them.
+To maintain the harmony and order of the MistMC, the following game rules are hereby established. Please read them carefully and follow them.
 
 ## Respect Community Members
 
@@ -64,7 +64,7 @@ Encourage creativity and free expression, but keep it appropriate:
 
 Violations will be dealt with in accordance with the law.
 
-We value your understanding and cooperation in creating a good order and harmonious atmosphere for the Lan·Domain Minecraft Server. Enjoy your game!
+We value your understanding and cooperation in creating a good order and harmonious atmosphere for the MistMC. Enjoy your game!
 
 > **Warning**  
 > Mischievous behavior is not welcome.

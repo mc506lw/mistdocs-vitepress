@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "岚域"
   text: "一个我的世界服务器"
-  image: /logo.svg
+  image: https://i.ibb.co/Wzj6xKs/Mist.png
   tagline: Fervor To Forever
   actions:
     - theme: brand

@@ -3,7 +3,7 @@ title: Getting Started
 ---
 
 # Getting Started
-The Lan·Domain server is a良心 commercial server supported by the player community.
+The Lan·Domain server is a conscience commercial server supported by the player community.
 
 [Special Note on Good Faith](/en-US/docs/other/goodxin.html)
 

@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Mist"
   text: "岚域"
-  image: /logo.svg
+  image: https://i.ibb.co/Wzj6xKs/Mist.png
   tagline: 选择语言 / Choose language
   actions:
     - theme: brand

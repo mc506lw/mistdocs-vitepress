@@ -5,7 +5,7 @@ layout: home
 hero:
    name: "MistMC"
    text: "A Minecraft Server"
-   image: /logo.svg
+   image: https://i.ibb.co/Wzj6xKs/Mist.png
    tagline: Fervor To Forever
    actions:
      - theme: brand
@@ -16,7 +16,7 @@ hero:
        link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=3dDOOsgeMGjDJEVWTIj8C15zKBoN-sX8&authKey=nxS%2FooJ3cRB6SJNzf%2BfSZ%2BngRdqrPl8RbVUT6fykDfrx%2BgM96tMrLErOprxR8y99&noverify=0&group_code=807505406
 
 features:
-   - title: SlimeTech
+   - title: SlimeFun4
      details: Experience the charm of technology
    - title: Custom Terrain
      details: Infinite exploration

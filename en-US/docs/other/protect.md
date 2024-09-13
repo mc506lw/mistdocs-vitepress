@@ -21,6 +21,4 @@ For detailed information on how to use CoreProtect to protect your assets, pleas
 
 Links:
 
-- [CoreProtect Usage Guide]: Replace with the actual URL for the guide in English.
-
-(Note: The translation assumes that the original Chinese links have corresponding English versions available. If not, you will need to replace the links with the actual English resources.)
+- [CoreProtect Usage Guide](/en-US/docs/guide/function/coi)
